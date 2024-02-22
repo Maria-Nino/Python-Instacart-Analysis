@@ -17,3 +17,5 @@ C. Are there differences in ordering habits based on a customer’s region?
 
 D. Is there a connection between age and family status in terms of ordering
 habits?
+# Data
+This project uses a number of open-source data sets from Instacart. There is also a customer data set (created and included for the purpose of this project). While each data set contains a different kind of information, they all include some kind of common identifier.
