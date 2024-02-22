@@ -6,9 +6,14 @@ The company would like to perform an initial data and exploratory analysis of so
 2. Are there any particular times of the day when people spend the most money?
 3. Are there certain types of products that are more popular than others? 
 4. What are the types of customers in their system and how do their ordering behaviors differ. 
+
 For example:
+
 A. What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+
 B. Are there differences in ordering habits based on a customer’s loyalty status?
+
 C. Are there differences in ordering habits based on a customer’s region?
+
 D. Is there a connection between age and family status in terms of ordering
 habits?
