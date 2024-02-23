@@ -32,7 +32,7 @@ The following python libraries were used for this project:
 
   SciPy: for mathematical equations
   # Folders
-The project files are divided into different folders
+The project files are divided into different folders:
 
 Project Management: project brief.
 
