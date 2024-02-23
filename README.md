@@ -19,3 +19,25 @@ D. Is there a connection between age and family status in terms of ordering
 habits?
 # Data
 This project uses a number of open-source data sets from Instacart. There is also a customer data set (created and included for the purpose of this project). While each data set contains a different kind of information, they all include some kind of common identifier.
+# Tools
+The following python libraries were used for this project:
+
+  Pandas: for data analization
+
+  Seaborn: for data visualization
+
+  Matplotlib: for data visualization
+
+  Numpy: for mathematical equations
+
+  SciPy: for mathematical equations
+  # Folders
+The project files are divided into different folders
+
+Project Management: project brief.
+
+Scripts: the notebooks containing the coding for the project.
+
+Analysis: the visualizations made throughtout the project.
+
+Sent to Client: the final report presented in excel.
